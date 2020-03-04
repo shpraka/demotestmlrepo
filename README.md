@@ -1,0 +1,3 @@
+# Container Spin Up Repo
+
+Running the Action builds a container with an endpoint and spins up a training container...
