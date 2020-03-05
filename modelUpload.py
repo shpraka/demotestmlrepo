@@ -43,7 +43,7 @@ directory = "demotestmlrepo"
 fileName = "/SampleModelGeneratorScriptCopy.ipynb"
 filePath = modelUploadBase + directory + fileName
 
-tags = "age prediction, prediction"
+tags = "price prediction, prediction"
 
 metrics = getMetrics();
 
